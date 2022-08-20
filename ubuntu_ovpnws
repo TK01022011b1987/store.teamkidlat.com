@@ -636,7 +636,6 @@ install_sudo(){
   }&>/dev/null
 }
 
-
 install_iptables(){
   {
 echo -e "\033[01;31m Configure Sysctl \033[0m"
